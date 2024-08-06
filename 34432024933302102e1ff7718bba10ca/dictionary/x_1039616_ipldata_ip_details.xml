@@ -6,6 +6,7 @@
         <element label="latitude" max_length="40" name="latitude" type="string"/>
         <element label="state prov" max_length="40" name="state_prov" type="string"/>
         <element label="city" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Current Time" max_length="40" name="ct" type="string"/>
         <element label="country code3" max_length="40" name="country_code3" type="string"/>
         <element label="currency" max_length="40" name="country_captial" type="string"/>
         <element label="Time Zone" max_length="40" name="country_name_offical" type="string"/>
