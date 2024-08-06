@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="41db8ce6933302102e1ff7718bba1059" label="IP Details" max_length="40" name="x_1039616_ipldata_ip_details" type="collection">
+        <element label="Enter your IP" max_length="40" name="enter_your_ip" type="string"/>
+        <element label="continent name" max_length="40" name="continent_name" type="string"/>
+        <element label="zipcode" max_length="40" name="zipcode" type="string"/>
+        <element label="latitude" max_length="40" name="latitude" type="string"/>
+        <element label="state prov" max_length="40" name="state_prov" type="string"/>
+        <element label="city" max_length="40" name="city" type="string"/>
+        <element label="country code3" max_length="40" name="country_code3" type="string"/>
+        <element label="currency" max_length="40" name="country_captial" type="string"/>
+        <element label="Time Zone" max_length="40" name="country_name_offical" type="string"/>
+        <element label="longitude" max_length="40" name="longitude" type="string"/>
+        <element label="country name" max_length="40" name="country_name" type="string"/>
+        <element label="state code" max_length="40" name="state_code" type="string"/>
+        <element label="country code2" max_length="40" name="country_code2" type="string"/>
+        <element label="organization" max_length="40" name="organization" type="string"/>
+    </element>
+</database>
