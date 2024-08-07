@@ -65,7 +65,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4e2eccaa933302102e1ff7718bba10b0</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>get ip details</sys_name>
         <sys_overrides/>
         <sys_package display_value="ipldata" source="x_1039616_ipldata">34432024933302102e1ff7718bba10ca</sys_package>
@@ -73,9 +73,9 @@
         <sys_scope display_value="ipldata">34432024933302102e1ff7718bba10ca</sys_scope>
         <sys_update_name>sys_script_4e2eccaa933302102e1ff7718bba10b0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-06 11:04:33</sys_updated_on>
+        <sys_updated_on>2024-08-07 06:58:32</sys_updated_on>
         <template/>
-        <when>async_always</when>
+        <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=4e2eccaa933302102e1ff7718bba10b0"/>
 </record_update>
